@@ -3,4 +3,33 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
          version="4.0">
+
+         <servlet>
+         <servlet-name>servlet1</servlet-name>
+         <servlet-class>cn.itcast.chapter.request.RequestParamsServlet</servlet-class>
+         </servlet>
+         <servlet-mapping>
+         <servlet-name>servlet1</servlet-name>
+         <url-pattern>/111</url-pattern>
+         </servlet-mapping>
+
+         <servlet>
+             <servlet-name>myResponseServlet</servlet-name>
+             <servlet-class>MyResponseServlet</servlet-class>
+         </servlet>
+
+         <servlet-mapping>
+             <servlet-name>myResponseServlet</servlet-name>
+             <url-pattern>/response</url-pattern>
+         </servlet-mapping>
+
+         <servlet>
+             <servlet-name>servlet3</servlet-name>
+             <servlet-class>com.MVC.LoginCookie</servlet-class>
+         </servlet>
+         <servlet-mapping>
+             <servlet-name>servlet3</servlet-name>
+             <url-pattern>/aaa</url-pattern>
+         </servlet-mapping>
+         
 </web-app>

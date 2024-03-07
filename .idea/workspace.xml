@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26cb3516-ee29-41d5-83ba-328070dbaf2c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaEE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2d4FRqO4wWW82nVockUQqzxgFl7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26cb3516-ee29-41d5-83ba-328070dbaf2c" name="Default Changelist" comment="" />
+      <created>1709259438618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709259438618</updated>
+      <workItem from="1709259444471" duration="4440000" />
+      <workItem from="1709781622223" duration="145000" />
+      <workItem from="1709811874754" duration="5337000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="524" y="198" key="#Notifications" timestamp="1709822372959">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="524" y="198" key="#Notifications/0.0.1280.672@0.0.1280.672" timestamp="1709822372959" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1709266137163">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.672@0.0.1280.672" timestamp="1709266137163" />
+    <state x="455" y="242" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1709820121465">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="455" y="242" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1280.672@0.0.1280.672" timestamp="1709820121465" />
+    <state x="421" y="91" key="FileChooserDialogImpl" timestamp="1709822347036">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="421" y="91" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1709822347036" />
+    <state x="453" y="38" key="RollbackChangesDialog" timestamp="1709822700152">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="453" y="38" key="RollbackChangesDialog/0.0.1280.672@0.0.1280.672" timestamp="1709822700152" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1709820134319">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.672@0.0.1280.672" timestamp="1709820134319" />
+    <state x="471" y="127" key="svn.repositoryBrowser" timestamp="1709820008958">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="471" y="127" key="svn.repositoryBrowser/0.0.1280.672@0.0.1280.672" timestamp="1709820008958" />
+  </component>
+</project>
